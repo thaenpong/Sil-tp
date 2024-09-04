@@ -1,0 +1,7 @@
+.qrCodeScanner {
+    width: 300px;
+    height: 300px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    /* Add other styles for the QR code scanner */
+}
